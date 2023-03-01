@@ -1,6 +1,6 @@
 public class Chapter04 {
     public static void main(String[] args){
-        String str1="江上";
+        String str1="たなか";
         System.out.println(str1);
         str1="ラーメン";
         System.out.println(str1);
